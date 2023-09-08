@@ -6,7 +6,7 @@
   ### Heading
   1. Foo
   2. Bar
-     * Baz
+     * <a src="https://google.com">Baz<a>
      * Qux
 
   ### Some Javascript
@@ -60,7 +60,7 @@ To have a collapsible section expanded by default, simply include the 'open' att
 You can modify the appearance of the clickable text by adding styling inside the `<summary>` tags:
 
 <details>
-  <summary><i><a src="https:google.com">Wow, so fancy</a></i></summary>
+  <summary><i><a src="https://google.com">Wow, so fancy</a></i></summary>
   <b>WOW, SO BOLD</b>
 </details>
 
